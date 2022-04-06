@@ -1,2 +1,2 @@
 # AStarAI
-Seminar za kolegij Umjetne Inteligencije
+# Seminar work for a college class

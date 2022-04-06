@@ -1,2 +1,2 @@
 # AStarAI
-# Seminar work for a college class
+Seminar work for a college class
